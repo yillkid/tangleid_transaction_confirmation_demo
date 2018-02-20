@@ -2,7 +2,7 @@
 Provide a simple demonstrate how a transaction confirmation in TangleID.
 
 Demo Files Description:
-demo/demo_flow.py: Demonstrate workflow only, no issue any transaction to Tangle.
+demo/flow.py: Demonstrate workflow only, without transaction about Tangle.
 
 A working flow graphic as below:
 
